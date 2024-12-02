@@ -1,0 +1,23 @@
+# Python meta files
+__pycache__
+.mypy_cache
+*.egg-info/
+.pytest_cache/
+fp-info-cache
+.coverage
+
+# Editor configuration files
+.python-version
+*.sw*
+.vscode
+
+# Misc files
+.DS_store
+*-backups
+*.tmp
+*.bkp
+**/_notebooks/
+*.csv
+*.png
+
+.idea
